@@ -1,8 +1,4 @@
-# Gadget Works Online Ordering System v1.0 has Cross-site scripting (reflected)
-
 BUG_Author: FinleyTang
-
-Website source code address:https://www.sourcecodester.com/php/13093/gadget-works-online-ordering-system-phpmysqli.html
 
 Vulnerability File: /philosophy/admin/products/index.php
 
